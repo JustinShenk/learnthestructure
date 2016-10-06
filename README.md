@@ -1,5 +1,5 @@
 # learnthestructure
-Implementation of libpgm for the Wisconsin Breast Cancer Database
+Implementation of [libpgm](https://github.com/CyberPoint/libpgm) to estimate the Bayesian Network structure of the [Wisconsin Breast Cancer Database](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original))
 
 # Project structure
 Python script is location in `libpgm-1.3/implementation/learnthestructure.py`
@@ -26,7 +26,7 @@ Run the implementation
 `python learnthestructure.py`
 
 # Output
-The script outputs estimated edges and vertices from the data:
+This implementation outputs estimated edges and vertices from the data:
 
 Edges:
 [
@@ -140,3 +140,4 @@ Vertices with variance and mean:
     "variance": 5.937114332553557
   }
 }
+

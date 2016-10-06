@@ -10,7 +10,7 @@ Clone the repository
 
 `cd libpgm-1.3`
 
-`sudo python setup.py install`
+`[sudo] python setup.py install`
 
 `cd implementation`
 

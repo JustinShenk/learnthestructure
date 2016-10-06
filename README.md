@@ -2,9 +2,9 @@
 Implementation of [libpgm](https://github.com/CyberPoint/libpgm) to estimate the Bayesian Network structure of the [Wisconsin Breast Cancer Database](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original))
 
 # Project structure
-Python script is location in `libpgm-1.3/implementation/learnthestructure.py`
+Python script is located in `libpgm-1.3/implementation/learnthestructure.py`.
 
-The original data is located in `libpgm-1.3/data/breast-cancer-wisconsin.data`
+The original data is located in `libpgm-1.3/data/breast-cancer-wisconsin.data`.
 
 # Getting started
 Clone the repository
@@ -19,7 +19,7 @@ Install libpgm package
 
 `[sudo] python setup.py install`
 
-Run the implementation
+Run the script
 
 `cd implementation`
 

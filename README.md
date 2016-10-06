@@ -6,7 +6,7 @@ Clone the repository
 
 `git clone https://github.com/JustinShenk/learnthestructure.git`
 
-`cd structurelearning`
+`cd learnthestructure`
 
 `cd libpgm-1.3`
 

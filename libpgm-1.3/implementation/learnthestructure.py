@@ -11,7 +11,7 @@ class LearnTheStructure(object):
 
     def __init__(self):
         self.data = self.clean_data()
-        self.estimate_lg_model(self.data)
+        self.result = self.estimate_lg_model(self.data)
 
     def run(self):
         print "[Wisconsin Breast Cancer Dataset Bayesian structure learning with libpgm 1.3]"
@@ -92,7 +92,10 @@ class LearnTheStructure(object):
         """
         learner = PGMLearner()
         resultlg = learner.lg_estimatebn(data)
-
+        # Saves resulting structure.
+        with open('../data/breast-data-result.txt', 'w') as out_file:
+            json.dump(resultlg.Vdata, out_file, indent=2, sort_keys=False,
+                      separators=(',', ': '))
         print "Edges:"
         print json.dumps(resultlg.E, indent=2)
         print "Vertices and CPD:"

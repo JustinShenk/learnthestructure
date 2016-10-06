@@ -1,5 +1,5 @@
 # learnthestructure
-Implementation of [libpgm](https://github.com/CyberPoint/libpgm) to estimate the Bayesian Network structure of the [Wisconsin Breast Cancer Database](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original))
+Implementation of [libpgm](https://github.com/CyberPoint/libpgm) to estimate the Bayesian Network structure of the [Wisconsin Breast Cancer Database](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)). This code was written by Marc Vidal and Justin Shenk for Niko Potyka's "Basic Methods in Probabilistic Reasoning" seminar.
 
 # Project structure
 Python script is located in `libpgm-1.3/implementation/learnthestructure.py`.

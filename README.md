@@ -1,4 +1,4 @@
-# learnthestructure
+# Bayesian Structure Learning with Breast Cancer Data
 Implementation of [libpgm](https://github.com/CyberPoint/libpgm) to estimate the Bayesian Network structure of the [Wisconsin Breast Cancer Database](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original))
 
 # Project structure
@@ -140,4 +140,3 @@ Vertices with variance and mean:
     "variance": 5.937114332553557
   }
 }
-

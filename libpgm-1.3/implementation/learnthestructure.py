@@ -7,16 +7,35 @@ sys.path.append("../")
 
 
 class LearnTheStructure(object):
-    """Learns the structure and parameters of linear gaussian model given only the data."""
+    """Learns the structure and parameters of linear Gaussian model given only
+    the data.
 
-    def __init__(self):
+        Args:
+            pvalparam: Threshold below which significance is unlikely
+            bins: The number of bins to discretize the data into.     From the
+            libpgm package:
+            "The number of bins to discretize the data into. The
+            method is to find the highest and lowest value, divide that interval
+            uniformly into a certain number of bins, and place the data inside. This
+            number must be chosen carefully in light of the number of trials. There
+            must be at least 5 trials in every bin, with more if the indegree is
+            increased."
+
+        Returns:
+            A libpgm object containing structure, parameters and CPD.
+
+    """
+
+    def __init__(self, pvalparam=.05, bins=10, **kw):
         self.data = self.clean_data()
-        self.pvalparam = 0.05
+        self.pvalparam = float(pvalparam)
+        self.bins = int(bins)
         self.result = self.estimate_lg_model(self.data)
 
     def run(self):
         print "Bayesian structure learning on the Breast Cancer Dataset using libpgm 1.3"
-        print "P-value hyperparameter = ", self.pvalparam
+        print "P-value hyperparameter: ", self.pvalparam
+        print "Bins for linear Gaussian: ", self.bins
 
     def clean_data(self):
         """Converts raw data to libpgm readable JSON and saves the file."""
@@ -84,7 +103,7 @@ class LearnTheStructure(object):
         return json_data
 
     def estimate_lg_model(self, data):
-        """Estimates the structure and parameters of linear guassian model.
+        """Estimates the structure and parameters of linear Gaussian model.
 
         Args:
             data: A JSON-style list of dictionaries representing instances.
@@ -93,11 +112,17 @@ class LearnTheStructure(object):
             A libpgm object containing structure, parameters and CPD.
         """
         learner = PGMLearner()
-        resultlg = learner.lg_estimatebn(data, self.pvalparam)
+        resultlg = learner.lg_estimatebn(
+            data, self.pvalparam, self.bins, 1)
         # Saves resulting structure.
-        with open('../data/breast-data-result.txt', 'w') as out_file:
-            json.dump(resultlg.Vdata, out_file, indent=2, sort_keys=False,
-                      separators=(',', ': '))
+        if len(sys.argv) > 1:
+            with open('../data/breast-data-result-' + str(self.pvalparam) + '-' + str(self.bins) + '.txt', 'w') as out_file:
+                json.dump(resultlg.Vdata, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
+        else:
+            with open('../data/breast-data-result.txt', 'w') as out_file:
+                json.dump(resultlg.Vdata, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
         print "Edges:"
         print json.dumps(resultlg.E, indent=2)
         print "Vertices:"
@@ -105,4 +130,11 @@ class LearnTheStructure(object):
         return resultlg
 
 if __name__ == '__main__':
-    LearnTheStructure().run()
+    if len(sys.argv) == 3:
+        print "will run"
+        LearnTheStructure(sys.argv[1], sys.argv[2]).run()
+    elif len(sys.argv) == 2:
+        print "ran"
+        LearnTheStructure(sys.argv[1]).run()
+    else:
+        LearnTheStructure().run()

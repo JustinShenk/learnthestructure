@@ -1,73 +1,27 @@
-# Bayesian Network Structure Learning with Breast Cancer Data
-Implementation of [libpgm](https://github.com/CyberPoint/libpgm) to estimate the Bayesian Network structure of the [Wisconsin Breast Cancer Database](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original))
-
-# Project structure
-Python script is located in `libpgm-1.3/implementation/learnthestructure.py`.
-
-The original data is located in `libpgm-1.3/data/breast-cancer-wisconsin.data`.
-
-# Getting started
-Clone the repository
-
-`git clone https://github.com/JustinShenk/learnthestructure.git`
-
-Install libpgm package
-
-`cd learnthestructure`
-
-`cd libpgm-1.3`
-
-`[sudo] python setup.py install`
-
-Run the script
-
-`cd implementation`
-
-`python learnthestructure.py [p-value parameter] [# of bins]`
-
-By default, p-value threshold is .05 and linear Gaussian data is discretized into 10 bins.
-
-# Output
-This implementation outputs estimated edges and vertices from the data in files marked with optional arguments:
-`/data/breast-data-result-0.1-10.txt`
-
-Edges:
-[
-  [
-    "UniformityofCellShape",
-    "UniformityofCellSize"
-  ],
-  [
-    "UniformityofCellSize",
-    "Class"
-  ],
-  [
-    "BareNuclei",
-    "Class"
-  ]
-]
-
-Vertices with variance and mean:
 {
   "SingleEpithelialCellSize": {
     "mean_base": 3.2160228898426322,
     "parents": [],
-    "children": [],
+    "children": [
+      "UniformityofCellSize"
+    ],
     "mean_scal": [],
     "variance": 4.896109504483208
   },
   "UniformityofCellSize": {
-    "mean_base": 0.14785300560650477,
+    "mean_base": -0.27618569706083096,
     "parents": [
+      "SingleEpithelialCellSize",
       "UniformityofCellShape"
     ],
     "children": [
       "Class"
     ],
     "mean_scal": [
-      0.9311555526677312
+      0.28341610043935417,
+      0.7791857308018969
     ],
-    "variance": 1.6510156913512928
+    "variance": 1.4614250579800006
   },
   "BareNuclei": {
     "mean_base": 3.4864091559370531,

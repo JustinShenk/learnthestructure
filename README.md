@@ -51,6 +51,7 @@ What is the probability that cancer within an instance is malignant given that B
 
 `The probability of  {'Class': [4]}  given  {'BareNuclei': 10}  is  0.808146976884`
 
+```
 Edges:
 [
   [

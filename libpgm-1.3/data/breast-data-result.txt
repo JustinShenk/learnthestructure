@@ -58,13 +58,6 @@
     "mean_scal": [],
     "variance": 2.937284205312719
   },
-  "Samplecodenumber": {
-    "mean_base": 1071704.0987124464,
-    "parents": [],
-    "children": [],
-    "mean_scal": [],
-    "variance": 380262351292.2461
-  },
   "MarginalAdhesion": {
     "mean_base": 2.8068669527896994,
     "parents": [],

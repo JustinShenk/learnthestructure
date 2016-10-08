@@ -5,6 +5,8 @@ from collections import OrderedDict
 # Add to PYTHONPATH
 sys.path.append("../")
 
+includeLG = False
+
 
 class LearnTheStructure(object):
     """Learns the structure and parameters of linear Gaussian model given only
@@ -30,7 +32,9 @@ class LearnTheStructure(object):
         self.data = self.clean_data()
         self.pvalparam = float(pvalparam)
         self.bins = int(bins)
-        self.result = self.estimate_lg_model(self.data)
+        self.result = self.estimate_discrete_model(self.data)
+        if includeLG:
+            self.resultlg = self.estimate_lg_model(self.data)
 
     def run(self):
         print "Bayesian structure learning on the Breast Cancer Dataset using libpgm 1.3"
@@ -55,6 +59,9 @@ class LearnTheStructure(object):
         ftext = ftext.replace('?', '1')
         data = json.loads(ftext)
         f.close()
+
+        for d in data:
+            del d['Samplecodenumber']
 
         # Converts unicode strings to int data type.
         clean_data = []
@@ -102,6 +109,35 @@ class LearnTheStructure(object):
                       separators=(',', ': '))
         return json_data
 
+    def estimate_discrete_model(self, data):
+        """Learn the structure and parameters of a discrete Bayesian network.
+
+        Args:
+            data: A JSON-style list of dictionaries representing instances.
+
+        Returns:
+            A libpgm object containing structure and parameters.
+        """
+        learner = PGMLearner()
+
+        self.resultdc = learner.discrete_constraint_estimatestruct(
+            data, self.pvalparam)
+
+        # Saves resulting structure.
+        if len(sys.argv) > 1:
+            with open('../data/breast-data-result-' + str(self.pvalparam) + '.txt', 'w') as out_file:
+                json.dump(resultdc.V, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
+        else:
+            with open('../data/breast-data-result.txt', 'w') as out_file:
+                json.dump(resultdc.V, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
+        print "Edges model:"
+        print json.dumps(resultdc.E, indent=2)
+        print "Vertices:"
+        print json.dumps(resultdc.V, indent=2)
+        return self.resultdc
+
     def estimate_lg_model(self, data):
         """Estimates the structure and parameters of linear Gaussian model.
 
@@ -109,32 +145,21 @@ class LearnTheStructure(object):
             data: A JSON-style list of dictionaries representing instances.
 
         Returns:
-            A libpgm object containing structure, parameters and CPD.
+            A libpgm object containing structure and parameters.
         """
         learner = PGMLearner()
         resultlg = learner.lg_estimatebn(
             data, self.pvalparam, self.bins, 1)
-        # Saves resulting structure.
-        if len(sys.argv) > 1:
-            with open('../data/breast-data-result-' + str(self.pvalparam) + '-' + str(self.bins) + '.txt', 'w') as out_file:
-                json.dump(resultlg.Vdata, out_file, indent=2, sort_keys=False,
-                          separators=(',', ': '))
-        else:
-            with open('../data/breast-data-result.txt', 'w') as out_file:
-                json.dump(resultlg.Vdata, out_file, indent=2, sort_keys=False,
-                          separators=(',', ': '))
-        print "Edges:"
-        print json.dumps(resultlg.E, indent=2)
-        print "Vertices:"
-        print json.dumps(resultlg.Vdata, indent=2)
-        return resultlg
+
+        return self.resultlg
 
 if __name__ == '__main__':
+    if 'lg' in argv:
+        includeLG = True
+
     if len(sys.argv) == 3:
-        print "will run"
         LearnTheStructure(sys.argv[1], sys.argv[2]).run()
     elif len(sys.argv) == 2:
-        print "ran"
         LearnTheStructure(sys.argv[1]).run()
     else:
         LearnTheStructure().run()

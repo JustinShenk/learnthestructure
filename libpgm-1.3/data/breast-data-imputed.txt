@@ -7,7 +7,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1000025,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -20,7 +19,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1002945,
     "MarginalAdhesion": 5,
     "Class": 2,
     "BlandChromatin": 3
@@ -33,7 +31,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1015425,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -46,7 +43,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 7,
     "Mitoses": 1,
-    "Samplecodenumber": 1016277,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -59,7 +55,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1017023,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 3
@@ -72,7 +67,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 7,
     "Mitoses": 1,
-    "Samplecodenumber": 1017122,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 9
@@ -85,7 +79,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1018099,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -98,7 +91,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1018561,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -111,7 +103,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 5,
-    "Samplecodenumber": 1033078,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -124,7 +115,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1033078,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -137,7 +127,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1035283,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -150,7 +139,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1036172,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -163,7 +151,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 1041801,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 4
@@ -176,7 +163,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1043999,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -189,7 +175,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 5,
     "Mitoses": 4,
-    "Samplecodenumber": 1044572,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -202,7 +187,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1047630,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 4
@@ -215,7 +199,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1048672,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -228,7 +211,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1049815,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -241,7 +223,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 2,
-    "Samplecodenumber": 1050670,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 4
@@ -254,7 +235,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1050718,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -267,7 +247,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 4,
     "Mitoses": 4,
-    "Samplecodenumber": 1054590,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -280,7 +259,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1054593,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 7
@@ -293,7 +271,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1056784,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -306,7 +283,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1057013,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 7
@@ -319,7 +295,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1059552,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -332,7 +307,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1065726,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 3
@@ -345,7 +319,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1066373,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -358,7 +331,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1066979,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -371,7 +343,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1067444,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -384,7 +355,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1070935,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -397,7 +367,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1070935,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -410,7 +379,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1071760,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -423,7 +391,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 4,
     "Mitoses": 3,
-    "Samplecodenumber": 1072179,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 7
@@ -436,7 +403,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1074610,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -449,7 +415,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1075123,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -462,7 +427,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1079304,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -475,7 +439,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 9,
     "Mitoses": 1,
-    "Samplecodenumber": 1080185,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 8
@@ -488,7 +451,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1081791,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 7
@@ -501,7 +463,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1084584,
     "MarginalAdhesion": 9,
     "Class": 4,
     "BlandChromatin": 5
@@ -514,7 +475,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 5,
     "Mitoses": 1,
-    "Samplecodenumber": 1091262,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 7
@@ -527,7 +487,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 8,
     "Mitoses": 1,
-    "Samplecodenumber": 1096800,
     "MarginalAdhesion": 9,
     "Class": 2,
     "BlandChromatin": 7
@@ -540,7 +499,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 5,
     "Mitoses": 2,
-    "Samplecodenumber": 1099510,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 6
@@ -553,7 +511,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 3,
     "Mitoses": 3,
-    "Samplecodenumber": 1100524,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 7
@@ -566,7 +523,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1102573,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 3
@@ -579,7 +535,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1103608,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 8
@@ -592,7 +547,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 2,
-    "Samplecodenumber": 1103722,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -605,7 +559,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 8,
     "Mitoses": 1,
-    "Samplecodenumber": 1105257,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 4
@@ -618,7 +571,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1105524,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -631,7 +583,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1106095,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 3
@@ -644,7 +595,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 8,
     "Mitoses": 2,
-    "Samplecodenumber": 1106829,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 3
@@ -657,7 +607,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 1,
     "Mitoses": 5,
-    "Samplecodenumber": 1108370,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 2
@@ -670,7 +619,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 1108449,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 3
@@ -683,7 +631,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 2,
-    "Samplecodenumber": 1110102,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 4
@@ -696,7 +643,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 3,
     "Mitoses": 7,
-    "Samplecodenumber": 1110503,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 7
@@ -709,7 +655,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1110524,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 7
@@ -722,7 +667,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1111249,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 3
@@ -735,7 +679,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 9,
     "Mitoses": 1,
-    "Samplecodenumber": 1112209,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 3
@@ -748,7 +691,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 4,
     "Mitoses": 4,
-    "Samplecodenumber": 1113038,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 5
@@ -761,7 +703,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1113483,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 5
@@ -774,7 +715,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1113906,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 5
@@ -787,7 +727,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1115282,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 4
@@ -800,7 +739,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1115293,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -813,7 +751,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1116116,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 3
@@ -826,7 +763,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 9,
     "Mitoses": 1,
-    "Samplecodenumber": 1116132,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 3
@@ -839,7 +775,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1116192,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -852,7 +787,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 10,
-    "Samplecodenumber": 1116998,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 4
@@ -865,7 +799,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1117152,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -878,7 +811,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 9,
     "Mitoses": 1,
-    "Samplecodenumber": 1118039,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 4
@@ -891,7 +823,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 9,
     "Mitoses": 8,
-    "Samplecodenumber": 1120559,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 8
@@ -904,7 +835,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1121732,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -917,7 +847,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1121919,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -930,7 +859,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 8,
     "Mitoses": 10,
-    "Samplecodenumber": 1123061,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 7
@@ -943,7 +871,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1124651,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 7
@@ -956,7 +883,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 8,
     "Mitoses": 1,
-    "Samplecodenumber": 1125035,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 4
@@ -969,7 +895,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 2,
     "Mitoses": 3,
-    "Samplecodenumber": 1126417,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 3
@@ -982,7 +907,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1131294,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 4
@@ -995,7 +919,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1132347,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1008,7 +931,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1133041,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -1021,7 +943,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1133136,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1034,7 +955,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1136142,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1047,7 +967,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1137156,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 7
@@ -1060,7 +979,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1143978,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -1073,7 +991,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1143978,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1086,7 +1003,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1147044,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 7
@@ -1099,7 +1015,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 10,
     "Mitoses": 7,
-    "Samplecodenumber": 1147699,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 7
@@ -1112,7 +1027,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 10,
-    "Samplecodenumber": 1147748,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 4
@@ -1125,7 +1039,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 1148278,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 4
@@ -1138,7 +1051,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 8,
     "Mitoses": 3,
-    "Samplecodenumber": 1148873,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 6
@@ -1151,7 +1063,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1152331,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1164,7 +1075,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1155546,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -1177,7 +1087,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1156272,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1190,7 +1099,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1156948,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -1203,7 +1111,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1157734,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1216,7 +1123,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1158247,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1229,7 +1135,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1160476,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1242,7 +1147,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1164066,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1255,7 +1159,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1165297,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -1268,7 +1171,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1165790,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1281,7 +1183,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 9,
     "Mitoses": 10,
-    "Samplecodenumber": 1165926,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 2
@@ -1294,7 +1195,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 9,
     "Mitoses": 4,
-    "Samplecodenumber": 1166630,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 7
@@ -1307,7 +1207,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 2,
-    "Samplecodenumber": 1166654,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 3
@@ -1320,7 +1219,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 5,
     "Mitoses": 1,
-    "Samplecodenumber": 1167439,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 2
@@ -1333,7 +1231,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1167471,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1346,7 +1243,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1168359,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 7
@@ -1359,7 +1255,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 8,
     "Mitoses": 8,
-    "Samplecodenumber": 1168736,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 8
@@ -1372,7 +1267,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 2,
     "Mitoses": 7,
-    "Samplecodenumber": 1169049,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 3
@@ -1385,7 +1279,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1170419,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 4
@@ -1398,7 +1291,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 7,
     "Mitoses": 1,
-    "Samplecodenumber": 1170420,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -1411,7 +1303,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1171710,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1424,7 +1315,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 8,
     "Mitoses": 3,
-    "Samplecodenumber": 1171710,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 7
@@ -1437,7 +1327,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 3,
     "Mitoses": 2,
-    "Samplecodenumber": 1171795,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 5
@@ -1450,7 +1339,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1171845,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 3
@@ -1463,7 +1351,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 3,
-    "Samplecodenumber": 1172152,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 7
@@ -1476,7 +1363,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1173216,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 8
@@ -1489,7 +1375,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1173235,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1502,7 +1387,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1173347,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -1515,7 +1399,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1173347,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1528,7 +1411,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 5,
     "Mitoses": 8,
-    "Samplecodenumber": 1173509,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 7
@@ -1541,7 +1423,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1173514,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -1554,7 +1435,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1173681,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1567,7 +1447,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1174057,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -1580,7 +1459,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1174057,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1593,7 +1471,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 3,
-    "Samplecodenumber": 1174131,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 5
@@ -1606,7 +1483,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1174428,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 5
@@ -1619,7 +1495,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1175937,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 8
@@ -1632,7 +1507,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1176406,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1645,7 +1519,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 5,
     "Mitoses": 5,
-    "Samplecodenumber": 1176881,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 7
@@ -1658,7 +1531,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1177027,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1671,7 +1543,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 6,
     "Mitoses": 2,
-    "Samplecodenumber": 1177399,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 1
@@ -1684,7 +1555,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1177512,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -1697,7 +1567,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1178580,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1710,7 +1579,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1179818,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1723,7 +1591,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 6,
     "Mitoses": 3,
-    "Samplecodenumber": 1180194,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 3
@@ -1736,7 +1603,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1180523,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1749,7 +1615,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1180831,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1762,7 +1627,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1181356,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1775,7 +1639,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1182404,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1788,7 +1651,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1182410,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -1801,7 +1663,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1183240,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1814,7 +1675,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1183246,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1827,7 +1687,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1183516,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -1840,7 +1699,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1183911,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -1853,7 +1711,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 3,
     "Mitoses": 3,
-    "Samplecodenumber": 1183983,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 4
@@ -1866,7 +1723,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1184184,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -1879,7 +1735,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1184241,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1892,7 +1747,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1184840,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1905,7 +1759,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1185609,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 4
@@ -1918,7 +1771,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1185610,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -1931,7 +1783,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 8,
     "Mitoses": 1,
-    "Samplecodenumber": 1187457,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 5
@@ -1944,7 +1795,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 8,
     "Mitoses": 7,
-    "Samplecodenumber": 1187805,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 7
@@ -1957,7 +1807,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1188472,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -1970,7 +1819,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 4,
     "Mitoses": 3,
-    "Samplecodenumber": 1189266,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 5
@@ -1983,7 +1831,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1189286,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 8
@@ -1996,7 +1843,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1190394,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -2009,7 +1855,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1190485,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -2022,7 +1867,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1192325,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 3
@@ -2035,7 +1879,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1193091,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -2048,7 +1891,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1193210,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2061,7 +1903,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1193683,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -2074,7 +1915,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 10,
     "Mitoses": 6,
-    "Samplecodenumber": 1196295,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 7
@@ -2087,7 +1927,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 7,
     "Mitoses": 2,
-    "Samplecodenumber": 1196915,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 5
@@ -2100,7 +1939,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1197080,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2113,7 +1951,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1197270,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2126,7 +1963,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 7,
-    "Samplecodenumber": 1197440,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -2139,7 +1975,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1197510,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2152,7 +1987,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1197979,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2165,7 +1999,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 3,
-    "Samplecodenumber": 1197993,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 3
@@ -2178,7 +2011,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 10,
-    "Samplecodenumber": 1198128,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 3
@@ -2191,7 +2023,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1198641,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2204,7 +2035,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1199219,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -2217,7 +2047,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1199731,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -2230,7 +2059,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1199983,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2243,7 +2071,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1200772,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -2256,7 +2083,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 10,
     "Mitoses": 7,
-    "Samplecodenumber": 1200847,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -2269,7 +2095,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1200892,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 6
@@ -2282,7 +2107,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 7,
     "Mitoses": 1,
-    "Samplecodenumber": 1200952,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 5
@@ -2295,7 +2119,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1201834,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2308,7 +2131,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 3,
-    "Samplecodenumber": 1201936,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 5
@@ -2321,7 +2143,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1202125,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2334,7 +2155,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1202812,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 3
@@ -2347,7 +2167,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1203096,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2360,7 +2179,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1204242,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -2373,7 +2191,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1204898,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2386,7 +2203,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 8,
     "Mitoses": 1,
-    "Samplecodenumber": 1205138,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 7
@@ -2399,7 +2215,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1205579,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 5
@@ -2412,7 +2227,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1206089,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2425,7 +2239,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1206695,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 7
@@ -2438,7 +2251,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 7,
     "Mitoses": 10,
-    "Samplecodenumber": 1206841,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 7
@@ -2451,7 +2263,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1207986,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 9
@@ -2464,7 +2275,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1208301,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2477,7 +2287,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1210963,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 7
@@ -2490,7 +2299,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 10,
     "Mitoses": 3,
-    "Samplecodenumber": 1211202,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 4
@@ -2503,7 +2311,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1212232,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -2516,7 +2323,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1212251,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2529,7 +2335,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1212422,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2542,7 +2347,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1212422,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2555,7 +2359,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 8,
     "Mitoses": 2,
-    "Samplecodenumber": 1213375,
     "MarginalAdhesion": 5,
     "Class": 2,
     "BlandChromatin": 7
@@ -2568,7 +2371,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1213383,
     "MarginalAdhesion": 4,
     "Class": 2,
     "BlandChromatin": 3
@@ -2581,7 +2383,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1214092,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -2594,7 +2395,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1214556,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -2607,7 +2407,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 8,
     "Mitoses": 3,
-    "Samplecodenumber": 1214966,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 7
@@ -2620,7 +2419,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1216694,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 8
@@ -2633,7 +2431,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1216947,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2646,7 +2443,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1217051,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2659,7 +2455,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1217264,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2672,7 +2467,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 5,
-    "Samplecodenumber": 1218105,
     "MarginalAdhesion": 9,
     "Class": 4,
     "BlandChromatin": 7
@@ -2685,7 +2479,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 5,
     "Mitoses": 1,
-    "Samplecodenumber": 1218741,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 3
@@ -2698,7 +2491,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1218860,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2711,7 +2503,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1218860,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2724,7 +2515,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1219406,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2737,7 +2527,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 6,
-    "Samplecodenumber": 1219525,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 8
@@ -2750,7 +2539,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 7,
     "Mitoses": 1,
-    "Samplecodenumber": 1219859,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 7
@@ -2763,7 +2551,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1220330,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2776,7 +2563,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 4,
-    "Samplecodenumber": 1221863,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 7
@@ -2789,7 +2575,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1222047,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -2802,7 +2587,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 2,
-    "Samplecodenumber": 1222936,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 5
@@ -2815,7 +2599,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1223282,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -2828,7 +2611,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1223426,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2841,7 +2623,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 10,
     "Mitoses": 2,
-    "Samplecodenumber": 1223793,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 8
@@ -2854,7 +2635,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1223967,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2867,7 +2647,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1224329,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -2880,7 +2659,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1225799,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 9
@@ -2893,7 +2671,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1226012,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 2
@@ -2906,7 +2683,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 1226612,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 7
@@ -2919,7 +2695,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 9,
     "Mitoses": 2,
-    "Samplecodenumber": 1227210,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 7
@@ -2932,7 +2707,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1227244,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -2945,7 +2719,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 9,
     "Mitoses": 1,
-    "Samplecodenumber": 1227481,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 8
@@ -2958,7 +2731,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 7,
     "Mitoses": 1,
-    "Samplecodenumber": 1228152,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 7
@@ -2971,7 +2743,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1228311,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -2984,7 +2755,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1230175,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 9
@@ -2997,7 +2767,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1230688,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 7
@@ -3010,7 +2779,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 9,
     "Mitoses": 2,
-    "Samplecodenumber": 1231387,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 8
@@ -3023,7 +2791,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1231706,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 4
@@ -3036,7 +2803,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1232225,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 4
@@ -3049,7 +2815,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1236043,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3062,7 +2827,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1241232,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3075,7 +2839,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 8,
     "Mitoses": 10,
-    "Samplecodenumber": 1241559,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 4
@@ -3088,7 +2851,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 10,
     "Mitoses": 4,
-    "Samplecodenumber": 1241679,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 4
@@ -3101,7 +2863,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 10,
-    "Samplecodenumber": 1242364,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 3
@@ -3114,7 +2875,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 2,
-    "Samplecodenumber": 1243256,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 5
@@ -3127,7 +2887,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1270479,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 2
@@ -3140,7 +2899,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1276091,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 3
@@ -3153,7 +2911,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1277018,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3166,7 +2923,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 128059,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 5
@@ -3179,7 +2935,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1285531,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3192,7 +2947,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1287775,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -3205,7 +2959,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 8,
     "Mitoses": 1,
-    "Samplecodenumber": 144888,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 7
@@ -3218,7 +2971,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 145447,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 3
@@ -3231,7 +2983,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 167528,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3244,7 +2995,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 169356,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3257,7 +3007,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 183913,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -3270,7 +3019,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 3,
-    "Samplecodenumber": 191250,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -3283,7 +3031,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 5,
     "Mitoses": 3,
-    "Samplecodenumber": 1017023,
     "MarginalAdhesion": 5,
     "Class": 2,
     "BlandChromatin": 3
@@ -3296,7 +3043,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 3,
     "Mitoses": 3,
-    "Samplecodenumber": 1100524,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 7
@@ -3309,7 +3055,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1116116,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 3
@@ -3322,7 +3067,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1168736,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 3
@@ -3335,7 +3079,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1182404,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -3348,7 +3091,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1182404,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -3361,7 +3103,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1198641,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3374,7 +3115,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 242970,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3387,7 +3127,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 3,
-    "Samplecodenumber": 255644,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -3400,7 +3139,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 6,
     "Mitoses": 5,
-    "Samplecodenumber": 263538,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 10
@@ -3413,7 +3151,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 8,
     "Mitoses": 1,
-    "Samplecodenumber": 274137,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 7
@@ -3426,7 +3163,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 5,
     "Mitoses": 1,
-    "Samplecodenumber": 303213,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -3439,7 +3175,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 3,
     "Mitoses": 3,
-    "Samplecodenumber": 314428,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -3452,7 +3187,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1182404,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3465,7 +3199,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 2,
-    "Samplecodenumber": 1198641,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 4
@@ -3478,7 +3211,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 320675,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 7
@@ -3491,7 +3223,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 7,
     "Mitoses": 8,
-    "Samplecodenumber": 324427,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 8
@@ -3504,7 +3235,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 385103,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3517,7 +3247,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 9,
     "Mitoses": 2,
-    "Samplecodenumber": 390840,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 3
@@ -3530,7 +3259,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 411453,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3543,7 +3271,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 320675,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 7
@@ -3556,7 +3283,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 428903,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 3
@@ -3569,7 +3295,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 431495,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3582,7 +3307,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 432809,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -3595,7 +3319,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 434518,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -3608,7 +3331,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 452264,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -3621,7 +3343,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 456282,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3634,7 +3355,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 8,
-    "Samplecodenumber": 476903,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 3
@@ -3647,7 +3367,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 486283,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3660,7 +3379,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 486662,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -3673,7 +3391,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 488173,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -3686,7 +3403,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 492268,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 5
@@ -3699,7 +3415,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 8,
     "Mitoses": 2,
-    "Samplecodenumber": 508234,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 3
@@ -3712,7 +3427,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 7,
     "Mitoses": 3,
-    "Samplecodenumber": 527363,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -3725,7 +3439,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 10,
-    "Samplecodenumber": 529329,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 4
@@ -3738,7 +3451,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 535331,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -3751,7 +3463,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 543558,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 5
@@ -3764,7 +3475,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 4,
-    "Samplecodenumber": 555977,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 4
@@ -3777,7 +3487,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 560680,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -3790,7 +3499,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 561477,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3803,7 +3511,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 563649,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 6
@@ -3816,7 +3523,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 601265,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 2
@@ -3829,7 +3535,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 606140,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -3842,7 +3547,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 606722,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 7
@@ -3855,7 +3559,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 7,
     "Mitoses": 1,
-    "Samplecodenumber": 616240,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 4
@@ -3868,7 +3571,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 61634,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -3881,7 +3583,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 625201,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -3894,7 +3595,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 7,
     "Mitoses": 2,
-    "Samplecodenumber": 63375,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 7
@@ -3907,7 +3607,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 635844,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 7
@@ -3920,7 +3619,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 636130,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3933,7 +3631,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 10,
-    "Samplecodenumber": 640744,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 7
@@ -3946,7 +3643,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 646904,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3959,7 +3655,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 653777,
     "MarginalAdhesion": 9,
     "Class": 4,
     "BlandChromatin": 3
@@ -3972,7 +3667,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 4,
-    "Samplecodenumber": 659642,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 3
@@ -3985,7 +3679,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 666090,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -3998,7 +3691,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 666942,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4011,7 +3703,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 8,
     "Mitoses": 4,
-    "Samplecodenumber": 667204,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 8
@@ -4024,7 +3715,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 673637,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 5
@@ -4037,7 +3727,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 684955,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4050,7 +3739,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 688033,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4063,7 +3751,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 5,
     "Mitoses": 1,
-    "Samplecodenumber": 691628,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 3
@@ -4076,7 +3763,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 693702,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4089,7 +3775,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 704097,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4102,7 +3787,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 9,
     "Mitoses": 1,
-    "Samplecodenumber": 704168,
     "MarginalAdhesion": 6,
     "Class": 2,
     "BlandChromatin": 4
@@ -4115,7 +3799,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 706426,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 4
@@ -4128,7 +3811,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 9,
     "Mitoses": 1,
-    "Samplecodenumber": 709287,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 8
@@ -4141,7 +3823,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 718641,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4154,7 +3835,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 721482,
     "MarginalAdhesion": 4,
     "Class": 2,
     "BlandChromatin": 7
@@ -4167,7 +3847,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 4,
     "Mitoses": 6,
-    "Samplecodenumber": 730881,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 7
@@ -4180,7 +3859,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 733639,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4193,7 +3871,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 733639,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4206,7 +3883,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 733823,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 4
@@ -4219,7 +3895,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 740492,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4232,7 +3907,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 743348,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4245,7 +3919,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 752904,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 5
@@ -4258,7 +3931,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 756136,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4271,7 +3943,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 760001,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 3
@@ -4284,7 +3955,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 760239,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 7
@@ -4297,7 +3967,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 76389,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 6
@@ -4310,7 +3979,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 2,
-    "Samplecodenumber": 764974,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4323,7 +3991,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 770066,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -4336,7 +4003,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 785208,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 4
@@ -4349,7 +4015,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 4,
     "Mitoses": 2,
-    "Samplecodenumber": 785615,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 3
@@ -4362,7 +4027,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 792744,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4375,7 +4039,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 797327,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 3
@@ -4388,7 +4051,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 798429,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4401,7 +4063,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 704097,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4414,7 +4075,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 806423,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 4
@@ -4427,7 +4087,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 809912,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 7
@@ -4440,7 +4099,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 810104,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4453,7 +4111,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 814265,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4466,7 +4123,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 814911,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4479,7 +4135,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 5,
     "Mitoses": 3,
-    "Samplecodenumber": 822829,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 9
@@ -4492,7 +4147,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 826923,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4505,7 +4159,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 830690,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -4518,7 +4171,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 831268,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4531,7 +4183,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 832226,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 3
@@ -4544,7 +4195,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 832567,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 7
@@ -4557,7 +4207,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 836433,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -4570,7 +4219,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 837082,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4583,7 +4231,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 846832,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 4
@@ -4596,7 +4243,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 9,
     "Mitoses": 4,
-    "Samplecodenumber": 850831,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 4
@@ -4609,7 +4255,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 855524,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4622,7 +4267,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 857774,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4635,7 +4279,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 3,
     "Mitoses": 3,
-    "Samplecodenumber": 859164,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 3
@@ -4648,7 +4291,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 3,
     "Mitoses": 8,
-    "Samplecodenumber": 859350,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 7
@@ -4661,7 +4303,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 3,
-    "Samplecodenumber": 866325,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 4
@@ -4674,7 +4315,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 5,
     "Mitoses": 3,
-    "Samplecodenumber": 873549,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 3
@@ -4687,7 +4327,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 10,
     "Mitoses": 10,
-    "Samplecodenumber": 877291,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 8
@@ -4700,7 +4339,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 4,
-    "Samplecodenumber": 877943,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -4713,7 +4351,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 888169,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4726,7 +4363,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 888523,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -4739,7 +4375,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 896404,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4752,7 +4387,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 897172,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4765,7 +4399,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 10,
     "Mitoses": 7,
-    "Samplecodenumber": 95719,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 7
@@ -4778,7 +4411,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 3,
-    "Samplecodenumber": 160296,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 8
@@ -4791,7 +4423,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 342245,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4804,7 +4435,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 428598,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4817,7 +4447,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 492561,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4830,7 +4459,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 493452,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4843,7 +4471,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 493452,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4856,7 +4483,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 521441,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -4869,7 +4495,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 560680,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4882,7 +4507,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 636437,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4895,7 +4519,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 640712,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4908,7 +4531,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 654244,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -4921,7 +4543,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 657753,
     "MarginalAdhesion": 4,
     "Class": 2,
     "BlandChromatin": 2
@@ -4934,7 +4555,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 685977,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -4947,7 +4567,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 805448,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4960,7 +4579,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 8,
     "Mitoses": 4,
-    "Samplecodenumber": 846423,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 7
@@ -4973,7 +4591,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1002504,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -4986,7 +4603,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1022257,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -4999,7 +4615,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1026122,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5012,7 +4627,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 2,
     "Mitoses": 3,
-    "Samplecodenumber": 1071084,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -5025,7 +4639,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1080233,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 7
@@ -5038,7 +4651,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1114570,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -5051,7 +4663,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1114570,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5064,7 +4675,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1116715,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5077,7 +4687,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1131411,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -5090,7 +4699,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 9,
     "Mitoses": 1,
-    "Samplecodenumber": 1151734,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 7
@@ -5103,7 +4711,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1156017,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5116,7 +4723,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1158247,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5129,7 +4735,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1158405,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5142,7 +4747,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1168278,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5155,7 +4759,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1176187,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -5168,7 +4771,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1196263,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5181,7 +4783,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1196475,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5194,7 +4795,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1206314,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5207,7 +4807,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 3,
     "Mitoses": 8,
-    "Samplecodenumber": 1211265,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 9
@@ -5220,7 +4819,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1213784,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5233,7 +4831,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1223003,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5246,7 +4843,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1223306,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5259,7 +4855,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1223543,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -5272,7 +4867,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1229929,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5285,7 +4879,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1231853,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5298,7 +4891,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1234554,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5311,7 +4903,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1236837,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -5324,7 +4915,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1237674,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5337,7 +4927,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1238021,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5350,7 +4939,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1238464,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5363,7 +4951,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 5,
     "Mitoses": 1,
-    "Samplecodenumber": 1238633,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 8
@@ -5376,7 +4963,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1238915,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -5389,7 +4975,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1238948,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 6
@@ -5402,7 +4987,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 5,
     "Mitoses": 1,
-    "Samplecodenumber": 1239232,
     "MarginalAdhesion": 6,
     "Class": 2,
     "BlandChromatin": 3
@@ -5415,7 +4999,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1239347,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 7
@@ -5428,7 +5011,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1239967,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5441,7 +5023,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 2,
     "Mitoses": 2,
-    "Samplecodenumber": 1240337,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -5454,7 +5035,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1253505,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5467,7 +5047,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1255384,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 3
@@ -5480,7 +5059,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1257200,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 8
@@ -5493,7 +5071,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1257648,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -5506,7 +5083,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1257815,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5519,7 +5095,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1257938,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5532,7 +5107,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1258549,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -5545,7 +5119,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1258556,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5558,7 +5131,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1266154,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 5
@@ -5571,7 +5143,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1272039,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5584,7 +5155,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1276091,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5597,7 +5167,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1276091,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5610,7 +5179,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1276091,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 3
@@ -5623,7 +5191,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1277629,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -5636,7 +5203,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1293439,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -5649,7 +5215,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1293439,
     "MarginalAdhesion": 5,
     "Class": 2,
     "BlandChromatin": 4
@@ -5662,7 +5227,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1294562,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 5
@@ -5675,7 +5239,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 8,
     "Mitoses": 1,
-    "Samplecodenumber": 1295186,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 2
@@ -5688,7 +5251,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 527337,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5701,7 +5263,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 558538,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -5714,7 +5275,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 566509,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5727,7 +5287,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 608157,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -5740,7 +5299,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 677910,
     "MarginalAdhesion": 4,
     "Class": 2,
     "BlandChromatin": 1
@@ -5753,7 +5311,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 734111,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -5766,7 +5323,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 734111,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5779,7 +5335,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 780555,
     "MarginalAdhesion": 6,
     "Class": 2,
     "BlandChromatin": 2
@@ -5792,7 +5347,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 827627,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5805,7 +5359,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1049837,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5818,7 +5371,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1058849,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5831,7 +5383,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1182404,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5844,7 +5395,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1193544,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 8
@@ -5857,7 +5407,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1201870,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 2
@@ -5870,7 +5419,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1202253,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5883,7 +5431,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1227081,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -5896,7 +5443,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 7,
     "Mitoses": 1,
-    "Samplecodenumber": 1230994,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 10
@@ -5909,7 +5455,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1238410,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5922,7 +5467,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 2,
-    "Samplecodenumber": 1246562,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 1
@@ -5935,7 +5479,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1257470,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 8
@@ -5948,7 +5491,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1259008,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 10
@@ -5961,7 +5503,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1266124,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5974,7 +5515,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1267898,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -5987,7 +5527,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1268313,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -6000,7 +5539,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1268804,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6013,7 +5551,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1276091,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -6026,7 +5563,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1280258,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6039,7 +5575,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1293966,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6052,7 +5587,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 3,
-    "Samplecodenumber": 1296572,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 7
@@ -6065,7 +5599,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 7,
     "Mitoses": 1,
-    "Samplecodenumber": 1298416,
     "MarginalAdhesion": 2,
     "Class": 4,
     "BlandChromatin": 9
@@ -6078,7 +5611,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 6,
     "Mitoses": 2,
-    "Samplecodenumber": 1299596,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 7
@@ -6091,7 +5623,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1105524,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6104,7 +5635,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1181685,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6117,7 +5647,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1211594,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6130,7 +5659,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1238777,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -6143,7 +5671,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1257608,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6156,7 +5683,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1269574,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6169,7 +5695,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1277145,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6182,7 +5707,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1287282,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6195,7 +5719,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1296025,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6208,7 +5731,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1296263,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6221,7 +5743,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1296593,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6234,7 +5755,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 5,
     "Mitoses": 1,
-    "Samplecodenumber": 1299161,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 7
@@ -6247,7 +5767,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1301945,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6260,7 +5779,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1302428,
     "MarginalAdhesion": 4,
     "Class": 2,
     "BlandChromatin": 1
@@ -6273,7 +5791,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 10,
     "Mitoses": 10,
-    "Samplecodenumber": 1318169,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -6286,7 +5803,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 474162,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 9
@@ -6299,7 +5815,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 787451,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6312,7 +5827,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1002025,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -6325,7 +5839,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1070522,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6338,7 +5851,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 5,
-    "Samplecodenumber": 1073960,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 8
@@ -6351,7 +5863,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 1076352,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 3
@@ -6364,7 +5875,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1084139,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 4
@@ -6377,7 +5887,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1115293,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6390,7 +5899,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1119189,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 7
@@ -6403,7 +5911,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1133991,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6416,7 +5923,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 5,
     "Mitoses": 2,
-    "Samplecodenumber": 1142706,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 6
@@ -6429,7 +5935,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1155967,
     "MarginalAdhesion": 10,
     "Class": 2,
     "BlandChromatin": 2
@@ -6442,7 +5947,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1170945,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6455,7 +5959,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1181567,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6468,7 +5971,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1182404,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6481,7 +5983,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1204558,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6494,7 +5995,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1217952,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6507,7 +6007,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1224565,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -6520,7 +6019,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1238186,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6533,7 +6031,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1253917,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -6546,7 +6043,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1265899,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -6559,7 +6055,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1268766,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6572,7 +6067,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1277268,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6585,7 +6079,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 8,
     "Mitoses": 7,
-    "Samplecodenumber": 1286943,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 4
@@ -6598,7 +6091,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1295508,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6611,7 +6103,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1297327,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6624,7 +6115,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1297522,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6637,7 +6127,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1298360,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6650,7 +6139,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1299924,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6663,7 +6151,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1299994,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6676,7 +6163,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1304595,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6689,7 +6175,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 10,
     "Mitoses": 2,
-    "Samplecodenumber": 1306282,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 8
@@ -6702,7 +6187,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1313325,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 9
@@ -6715,7 +6199,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1320077,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6728,7 +6211,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1320077,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6741,7 +6223,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1320304,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -6754,7 +6235,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1330439,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 9
@@ -6767,7 +6247,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 333093,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6780,7 +6259,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 369565,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6793,7 +6271,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 412300,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 7
@@ -6806,7 +6283,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 672113,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -6819,7 +6295,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 749653,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6832,7 +6307,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 769612,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -6845,7 +6319,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 769612,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -6858,7 +6331,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 798429,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -6871,7 +6343,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 807657,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -6884,7 +6355,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 8233704,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6897,7 +6367,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 9,
     "Mitoses": 1,
-    "Samplecodenumber": 837480,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 6
@@ -6910,7 +6379,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 867392,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6923,7 +6391,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 869828,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -6936,7 +6403,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1043068,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6949,7 +6415,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1056171,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -6962,7 +6427,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1061990,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -6975,7 +6439,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1113061,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -6988,7 +6451,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1116192,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -7001,7 +6463,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1135090,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7014,7 +6475,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1145420,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7027,7 +6487,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1158157,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7040,7 +6499,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1171578,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7053,7 +6511,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1174841,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7066,7 +6523,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1184586,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7079,7 +6535,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1186936,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -7092,7 +6547,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1197527,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7105,7 +6559,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1222464,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 7
@@ -7118,7 +6571,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1240603,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7131,7 +6583,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1240603,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7144,7 +6595,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 8,
     "Mitoses": 2,
-    "Samplecodenumber": 1241035,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 7
@@ -7157,7 +6607,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1287971,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7170,7 +6619,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1289391,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -7183,7 +6631,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1299924,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 4
@@ -7196,7 +6643,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 2,
-    "Samplecodenumber": 1306339,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7209,7 +6655,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1313658,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7222,7 +6667,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 8,
     "Mitoses": 1,
-    "Samplecodenumber": 1313982,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 4
@@ -7235,7 +6679,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1321264,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -7248,7 +6691,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1321321,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -7261,7 +6703,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1321348,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7274,7 +6715,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1321931,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7287,7 +6727,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1321942,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -7300,7 +6739,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1321942,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -7313,7 +6751,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1328331,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -7326,7 +6763,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1328755,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7339,7 +6775,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1331405,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -7352,7 +6787,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1331412,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -7365,7 +6799,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1333104,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -7378,7 +6811,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1334071,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7391,7 +6823,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 5,
     "Mitoses": 2,
-    "Samplecodenumber": 1343068,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 2
@@ -7404,7 +6835,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 1343374,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -7417,7 +6847,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1344121,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 8
@@ -7430,7 +6859,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 10,
     "Mitoses": 2,
-    "Samplecodenumber": 142932,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 9
@@ -7443,7 +6871,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 183936,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7456,7 +6883,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 324382,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7469,7 +6895,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 7,
     "Mitoses": 1,
-    "Samplecodenumber": 378275,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 7
@@ -7482,7 +6907,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 385103,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -7495,7 +6919,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 690557,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7508,7 +6931,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 695091,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7521,7 +6943,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 695219,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7534,7 +6955,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 824249,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -7547,7 +6967,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 871549,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7560,7 +6979,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 5,
     "Mitoses": 1,
-    "Samplecodenumber": 878358,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 7
@@ -7573,7 +6991,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1107684,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 6
@@ -7586,7 +7003,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1115762,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7599,7 +7015,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1217717,
     "MarginalAdhesion": 6,
     "Class": 2,
     "BlandChromatin": 1
@@ -7612,7 +7027,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1239420,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7625,7 +7039,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1254538,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -7638,7 +7051,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1261751,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7651,7 +7063,6 @@
     "ClumpThickness": 9,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1268275,
     "MarginalAdhesion": 9,
     "Class": 4,
     "BlandChromatin": 4
@@ -7664,7 +7075,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1272166,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7677,7 +7087,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1294261,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 10
@@ -7690,7 +7099,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1295529,
     "MarginalAdhesion": 6,
     "Class": 4,
     "BlandChromatin": 7
@@ -7703,7 +7111,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1298484,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 4
@@ -7716,7 +7123,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1311875,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7729,7 +7135,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1315506,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 7
@@ -7742,7 +7147,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1320141,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7755,7 +7159,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1325309,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7768,7 +7171,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1333063,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -7781,7 +7183,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1333495,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7794,7 +7195,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1334659,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7807,7 +7207,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1336798,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7820,7 +7219,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1344449,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7833,7 +7231,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1350568,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7846,7 +7243,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1352663,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 8
@@ -7859,7 +7255,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 2,
-    "Samplecodenumber": 188336,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 8
@@ -7872,7 +7267,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 8,
     "Mitoses": 3,
-    "Samplecodenumber": 352431,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 7
@@ -7885,7 +7279,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 353098,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -7898,7 +7291,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 411453,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7911,7 +7303,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 557583,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -7924,7 +7315,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 636375,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -7937,7 +7327,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 1,
     "Mitoses": 2,
-    "Samplecodenumber": 736150,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 7
@@ -7950,7 +7339,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 5,
     "Mitoses": 1,
-    "Samplecodenumber": 803531,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 8
@@ -7963,7 +7351,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 10,
-    "Samplecodenumber": 822829,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -7976,7 +7363,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1016634,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -7989,7 +7375,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1031608,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8002,7 +7387,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1041043,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8015,7 +7399,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1042252,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8028,7 +7411,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1057067,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8041,7 +7423,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1061990,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8054,7 +7435,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1073836,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8067,7 +7447,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1083817,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8080,7 +7459,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1096352,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 6
@@ -8093,7 +7471,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1140597,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 2
@@ -8106,7 +7483,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1149548,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8119,7 +7495,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1174009,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 2
@@ -8132,7 +7507,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1183596,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8145,7 +7519,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 7,
     "Mitoses": 3,
-    "Samplecodenumber": 1190386,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 7
@@ -8158,7 +7531,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1190546,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8171,7 +7543,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1213273,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8184,7 +7555,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1218982,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8197,7 +7567,6 @@
     "ClumpThickness": 6,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1225382,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8210,7 +7579,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1235807,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8223,7 +7591,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1238777,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8236,7 +7603,6 @@
     "ClumpThickness": 8,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1253955,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 5
@@ -8249,7 +7615,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1257366,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8262,7 +7627,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1260659,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8275,7 +7639,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 3,
-    "Samplecodenumber": 1268952,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 10
@@ -8288,7 +7651,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1275807,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 2
@@ -8301,7 +7663,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1277792,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8314,7 +7675,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1277792,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -8327,7 +7687,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1285722,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -8340,7 +7699,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1288608,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8353,7 +7711,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1290203,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8366,7 +7723,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1294413,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8379,7 +7735,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1299596,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8392,7 +7747,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1303489,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8405,7 +7759,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1311033,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8418,7 +7771,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1311108,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -8431,7 +7783,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 10,
-    "Samplecodenumber": 1315807,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -8444,7 +7795,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1318671,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8457,7 +7807,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1319609,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -8470,7 +7819,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1323477,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 2
@@ -8483,7 +7831,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1324572,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8496,7 +7843,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1324681,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8509,7 +7855,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1325159,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -8522,7 +7867,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1326892,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8535,7 +7879,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1330361,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8548,7 +7891,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 1333877,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -8561,7 +7903,6 @@
     "ClumpThickness": 7,
     "NormalNucleoli": 2,
     "Mitoses": 3,
-    "Samplecodenumber": 1334015,
     "MarginalAdhesion": 7,
     "Class": 4,
     "BlandChromatin": 7
@@ -8574,7 +7915,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1334667,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8587,7 +7927,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1339781,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8600,7 +7939,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1339781,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -8613,7 +7951,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 13454352,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8626,7 +7963,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1345452,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8639,7 +7975,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1345593,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 2
@@ -8652,7 +7987,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1347749,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8665,7 +7999,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 2,
-    "Samplecodenumber": 1347943,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 1
@@ -8678,7 +8011,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1348851,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -8691,7 +8023,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 3,
-    "Samplecodenumber": 1350319,
     "MarginalAdhesion": 1,
     "Class": 4,
     "BlandChromatin": 7
@@ -8704,7 +8035,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 1,
-    "Samplecodenumber": 1350423,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 7
@@ -8717,7 +8047,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 1352848,
     "MarginalAdhesion": 8,
     "Class": 4,
     "BlandChromatin": 7
@@ -8730,7 +8059,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1353092,
     "MarginalAdhesion": 2,
     "Class": 2,
     "BlandChromatin": 3
@@ -8743,7 +8071,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1354840,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -8756,7 +8083,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1354840,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8769,7 +8095,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1355260,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8782,7 +8107,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1365075,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8795,7 +8119,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1365328,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8808,7 +8131,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1368267,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8821,7 +8143,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1368273,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8834,7 +8155,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 1368882,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8847,7 +8167,6 @@
     "ClumpThickness": 10,
     "NormalNucleoli": 10,
     "Mitoses": 7,
-    "Samplecodenumber": 1369821,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 10
@@ -8860,7 +8179,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 6,
     "Mitoses": 3,
-    "Samplecodenumber": 1371026,
     "MarginalAdhesion": 10,
     "Class": 4,
     "BlandChromatin": 5
@@ -8873,7 +8191,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 2,
     "Mitoses": 1,
-    "Samplecodenumber": 1371920,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 3
@@ -8886,7 +8203,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 466906,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8899,7 +8215,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 466906,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8912,7 +8227,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 534555,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8925,7 +8239,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 536708,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8938,7 +8251,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 3,
     "Mitoses": 1,
-    "Samplecodenumber": 566346,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -8951,7 +8263,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 603148,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8964,7 +8275,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 8,
-    "Samplecodenumber": 654546,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -8977,7 +8287,6 @@
     "ClumpThickness": 1,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 654546,
     "MarginalAdhesion": 3,
     "Class": 2,
     "BlandChromatin": 1
@@ -8990,7 +8299,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 695091,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 4
@@ -9003,7 +8311,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 714039,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -9016,7 +8323,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 2,
-    "Samplecodenumber": 763235,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 2
@@ -9029,7 +8335,6 @@
     "ClumpThickness": 3,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 776715,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -9042,7 +8347,6 @@
     "ClumpThickness": 2,
     "NormalNucleoli": 1,
     "Mitoses": 1,
-    "Samplecodenumber": 841769,
     "MarginalAdhesion": 1,
     "Class": 2,
     "BlandChromatin": 1
@@ -9055,7 +8359,6 @@
     "ClumpThickness": 5,
     "NormalNucleoli": 10,
     "Mitoses": 2,
-    "Samplecodenumber": 888820,
     "MarginalAdhesion": 3,
     "Class": 4,
     "BlandChromatin": 8
@@ -9068,7 +8371,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 6,
     "Mitoses": 1,
-    "Samplecodenumber": 897471,
     "MarginalAdhesion": 4,
     "Class": 4,
     "BlandChromatin": 10
@@ -9081,7 +8383,6 @@
     "ClumpThickness": 4,
     "NormalNucleoli": 4,
     "Mitoses": 1,
-    "Samplecodenumber": 897471,
     "MarginalAdhesion": 5,
     "Class": 4,
     "BlandChromatin": 10

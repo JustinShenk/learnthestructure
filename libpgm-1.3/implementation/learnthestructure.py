@@ -1,12 +1,11 @@
 import sys
 import json
 from libpgm.pgmlearner import PGMLearner
+from libpgm.nodedata import NodeData
 from libpgm.graphskeleton import GraphSkeleton
 from libpgm.discretebayesiannetwork import DiscreteBayesianNetwork
 from libpgm.tablecpdfactorization import TableCPDFactorization
 from collections import OrderedDict
-# Add to PYTHONPATH
-sys.path.append("../")
 
 includeLG = False
 
@@ -17,8 +16,10 @@ class LearnTheStructure(object):
 
         Args:
             pvalparam: Threshold below which significance is unlikely
-            bins: The number of bins to discretize the data into.     From the
+
+            bins: The number of bins to discretize the data into. From the
             libpgm package:
+
             "The number of bins to discretize the data into. The
             method is to find the highest and lowest value, divide that interval
             uniformly into a certain number of bins, and place the data inside. This
@@ -95,7 +96,7 @@ class LearnTheStructure(object):
         ]
 
     def convert_to_json(self, path):
-        """Converts raw data to json with ordered attributes as keys."""
+        """Converts raw data to list of dictionaries with ordered attributes as keys."""
         json_data = []
 
         with open(path, "r") as document:
@@ -108,17 +109,19 @@ class LearnTheStructure(object):
                 json_data.append(
                     {a: v for a, v in zip(self.attributes, values)})
 
-        ordered_data = [OrderedDict(sorted(item.iteritems(), key=lambda (k, v): self.attributes.index(k))) for item in json_data]
+        ordered_data = [OrderedDict(sorted(item.iteritems(), key=lambda (k, v):
+                                           self.attributes.index(k))) for item in json_data]
         with open('../data/breast-data.txt', 'w') as out_file:
-            json.dump(ordered_data, out_file, indent=2, sort_keys=False,
-                      separators=(',', ': '))
+            json.dump(ordered_data, out_file, indent=2,
+                      sort_keys=False, separators=(',', ': '))
+
         return json_data
 
     def estimate_discrete_model(self, data):
         """Learn the structure and parameters of a discrete Bayesian network.
 
         Args:
-            data: A JSON-style list of dictionaries representing instances.
+            data: A list of dictionaries representing instances.
 
         Returns:
             A libpgm object containing structure and parameters.
@@ -147,7 +150,7 @@ class LearnTheStructure(object):
         """Estimates the structure and parameters of linear Gaussian model.
 
         Args:
-            data: A JSON-style list of dictionaries representing instances.
+            data: A list of dictionaries representing instances.
 
         Returns:
             A libpgm object containing structure and parameters.
@@ -186,8 +189,8 @@ class LearnTheStructure(object):
         return CPDs.Vdata
 
     def get_node_data(self):
-        nd = NodeData()
         if self.nodedata == None:
+            nd = NodeData()
             nodedata = {}
             nodedata['Vdata'] = self.CPDs
             nodedata['E'] = self.result.E
@@ -197,10 +200,12 @@ class LearnTheStructure(object):
                 json.dump(nodedata, f, indent=2)
 
             nd.load('../data/nodedata.txt')
-
+        else:
+            nd = NodeData()
+            nd.load('../data/nodedata.txt')
         return nd
 
-    def query(self, evidence=dict(), query=dict()):
+    def query_it(self, evidence=dict(), query=dict()):
         """
         Args:
             evidence: A dictionary of prior knowledge.
@@ -208,13 +213,13 @@ class LearnTheStructure(object):
             query: A dictionary of exact probability you wish to know.
 
             For example:
-                What is the probability that the cnancer is benign given that\
-                bare nuclei is a level 5?
+                What is the probability that the cancer is malignant given that
+                bare nuclei is a level 10?
 
-                evidence = dict(BareNuclei=5)
-                query = dict(Class=[2])
+                evidence = dict(BareNuclei=10)
+                query = dict(Class=[4])
         Returns:
-            A floating-point precision probability
+            A floating-point precision probability.
 
             For example:
                 In the above scenario, it returns 0.516213638531235

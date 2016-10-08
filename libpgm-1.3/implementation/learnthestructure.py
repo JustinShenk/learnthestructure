@@ -50,11 +50,10 @@ class LearnTheStructure(object):
     def clean_data(self):
         """Converts raw data to libpgm readable JSON and saves the file."""
         raw_data_path = '../data/breast-cancer-wisconsin.data'
-        self.define_attributes()
         data = self.convert_to_json(raw_data_path)
 
         # Loads and cleans the data.
-        data_path = '../data/breast-data.txt'
+        data_path = '../data/breast-data-pre.txt'
         f = open(data_path, 'r')
         ftext = f.read()
         ftext = ftext.translate(None, '\t\n ')
@@ -74,14 +73,12 @@ class LearnTheStructure(object):
         for d in data:
             clean_data.append(dict((k, int(v)) for k, v in d.iteritems()))
 
-        # Outputs imputed data.
-        with open('../data/breast-data-imputed.txt', 'w') as out_file:
-            json.dump(clean_data, out_file, indent=2, sort_keys=False,
-                      separators=(',', ': '))
         return clean_data
 
-    def define_attributes(self):
-        self.attributes = [
+    def convert_to_json(self, path):
+        """Converts raw data to list of dictionaries with ordered attributes as keys."""
+        json_data = []
+        attributes = [
             "Sample code number",
             "Clump Thickness",
             "Uniformity of Cell Size",
@@ -95,11 +92,7 @@ class LearnTheStructure(object):
             "Class"
         ]
 
-    def convert_to_json(self, path):
-        """Converts raw data to list of dictionaries with ordered attributes as keys."""
-        json_data = []
-
-        with open(path, "r") as document:
+        with open(path, 'r') as document:
             for line in document:
                 values = line.split(",")
                 # Remove the line return character "\n"
@@ -107,11 +100,11 @@ class LearnTheStructure(object):
                 if not line:
                     continue
                 json_data.append(
-                    {a: v for a, v in zip(self.attributes, values)})
+                    {a: v for a, v in zip(attributes, values)})
 
         ordered_data = [OrderedDict(sorted(item.iteritems(), key=lambda (k, v):
-                                           self.attributes.index(k))) for item in json_data]
-        with open('../data/breast-data.txt', 'w') as out_file:
+                                           attributes.index(k))) for item in json_data]
+        with open('../data/breast-data-pre.txt', 'w') as out_file:
             json.dump(ordered_data, out_file, indent=2,
                       sort_keys=False, separators=(',', ': '))
 
@@ -140,10 +133,11 @@ class LearnTheStructure(object):
             with open('../data/breast-data-result.txt', 'w') as out_file:
                 json.dump(resultdc.V, out_file, indent=2, sort_keys=False,
                           separators=(',', ': '))
-        print "Edges:"
-        print json.dumps(resultdc.E, indent=2)
-        print "Vertices:"
-        print json.dumps(resultdc.V, indent=2)
+        if not includeLG:
+            print "Edges:"
+            print json.dumps(resultdc.E, indent=2)
+            print "Vertices:"
+            print json.dumps(resultdc.V, indent=2)
         return resultdc
 
     def estimate_lg_model(self, data):
@@ -159,7 +153,7 @@ class LearnTheStructure(object):
         learner = PGMLearner()
         resultlg = learner.lg_estimatebn(
             data, self.pvalparam, self.bins, 1)
-        print "Linear Gaussian Demo"
+        print "Linear Gaussian Model"
         print "Edges:"
         print json.dumps(resultlg.E, indent=2)
         print "Vertices:"
@@ -224,7 +218,10 @@ class LearnTheStructure(object):
             For example:
                 In the above scenario, it returns 0.516213638531235
         """
-        skel = self.result
+        if includeLG:
+            skel = self.resultlg
+        else:
+            skel = self.result
         nd = self.get_node_data()
         bn = DiscreteBayesianNetwork(skel, nd)
         fn = TableCPDFactorization(bn)

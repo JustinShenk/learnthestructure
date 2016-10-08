@@ -5,8 +5,8 @@
   "NormalNucleoli",
   "ClumpThickness",
   "BareNuclei",
+  "SingleEpithelialCellSize",
   "UniformityofCellSize",
   "UniformityofCellShape",
-  "Class",
-  "SingleEpithelialCellSize"
+  "Class"
 ]

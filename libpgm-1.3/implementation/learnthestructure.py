@@ -120,7 +120,7 @@ class LearnTheStructure(object):
         """
         learner = PGMLearner()
 
-        self.resultdc = learner.discrete_constraint_estimatestruct(
+        resultdc = learner.discrete_constraint_estimatestruct(
             data, self.pvalparam)
 
         # Saves resulting structure.
@@ -132,11 +132,12 @@ class LearnTheStructure(object):
             with open('../data/breast-data-result.txt', 'w') as out_file:
                 json.dump(resultdc.V, out_file, indent=2, sort_keys=False,
                           separators=(',', ': '))
+        print "Linear Gaussian Demo"
         print "Edges model:"
         print json.dumps(resultdc.E, indent=2)
         print "Vertices:"
         print json.dumps(resultdc.V, indent=2)
-        return self.resultdc
+        return resultdc
 
     def estimate_lg_model(self, data):
         """Estimates the structure and parameters of linear Gaussian model.
@@ -151,12 +152,12 @@ class LearnTheStructure(object):
         resultlg = learner.lg_estimatebn(
             data, self.pvalparam, self.bins, 1)
 
-        return self.resultlg
+        return resultlg
 
 if __name__ == '__main__':
-    if 'lg' in argv:
+    if 'lg' in sys.argv:
+        sys.argv.remove('lg')
         includeLG = True
-
     if len(sys.argv) == 3:
         LearnTheStructure(sys.argv[1], sys.argv[2]).run()
     elif len(sys.argv) == 2:

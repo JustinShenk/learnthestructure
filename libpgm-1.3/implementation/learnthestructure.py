@@ -32,9 +32,9 @@ class LearnTheStructure(object):
         self.data = self.clean_data()
         self.pvalparam = float(pvalparam)
         self.bins = int(bins)
-        self.result = self.estimate_discrete_model(self.data)
         if includeLG:
             self.resultlg = self.estimate_lg_model(self.data)
+        self.result = self.estimate_discrete_model(self.data)
 
     def run(self):
         print "Bayesian structure learning on the Breast Cancer Dataset using libpgm 1.3"
@@ -132,8 +132,7 @@ class LearnTheStructure(object):
             with open('../data/breast-data-result.txt', 'w') as out_file:
                 json.dump(resultdc.V, out_file, indent=2, sort_keys=False,
                           separators=(',', ': '))
-        print "Linear Gaussian Demo"
-        print "Edges model:"
+        print "Edges:"
         print json.dumps(resultdc.E, indent=2)
         print "Vertices:"
         print json.dumps(resultdc.V, indent=2)
@@ -151,7 +150,11 @@ class LearnTheStructure(object):
         learner = PGMLearner()
         resultlg = learner.lg_estimatebn(
             data, self.pvalparam, self.bins, 1)
-
+        print "Linear Gaussian Demo"
+        print "Edges:"
+        print json.dumps(resultlg.E, indent=2)
+        print "Vertices:"
+        print json.dumps(resultlg.Vdata, indent=2)
         return resultlg
 
 if __name__ == '__main__':

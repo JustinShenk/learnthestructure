@@ -24,14 +24,17 @@ Run the script
 
 `cd implementation`
 
-`python learnthestructure.py [p-value parameter] [# of bins]`
+`python learnthestructure.py [p-value parameter] [# of bins] [lg]`
 
-By default, p-value threshold is .05 and linear Gaussian data is discretized into 10 bins.
+The data is discrete rather than continuous. To test the binning of the linear Gaussian function, however, add `lg` as an argument and specify the number of bins. By default, p-value threshold is .05 and linear Gaussian data is discretized into 10 bins.
 
 # Output
 
 This implementation outputs estimated edges and vertices from the data in files marked with optional arguments:
 `/data/breast-data-result-0.1-10.txt`
+
+CPDs are produced:
+`/data/breast-data-result-CPDs.txt`
 
 ```
 Edges:
@@ -51,7 +54,7 @@ Edges:
 ]
 ```
 ```
-Vertices with variance and mean:
+Vertices with variance and mean for linear Gaussian model:
 {
   "SingleEpithelialCellSize": {
     "mean_base": 3.2160228898426322,

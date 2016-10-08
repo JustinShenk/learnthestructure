@@ -1,6 +1,7 @@
 import sys
 import json
 from libpgm.pgmlearner import PGMLearner
+from libpgm.graphskeleton import GraphSkeleton
 from collections import OrderedDict
 # Add to PYTHONPATH
 sys.path.append("../")
@@ -35,6 +36,7 @@ class LearnTheStructure(object):
         if includeLG:
             self.resultlg = self.estimate_lg_model(self.data)
         self.result = self.estimate_discrete_model(self.data)
+        self.CPDs = self.learnCPDs(self.result)
 
     def run(self):
         print "Bayesian structure learning on the Breast Cancer Dataset using libpgm 1.3"
@@ -147,6 +149,7 @@ class LearnTheStructure(object):
         Returns:
             A libpgm object containing structure and parameters.
         """
+
         learner = PGMLearner()
         resultlg = learner.lg_estimatebn(
             data, self.pvalparam, self.bins, 1)
@@ -156,6 +159,28 @@ class LearnTheStructure(object):
         print "Vertices:"
         print json.dumps(resultlg.Vdata, indent=2)
         return resultlg
+
+    def learnCPDs(self, skel):
+        """Learn the CPDs of a discrete Bayesian network, given data and a structure:
+
+        Args:
+            skel: A list of dictionaries containing the skeleton.
+
+        Returns:
+            A list of dictionaries containing CPDs
+        """
+        learner = PGMLearner()
+        skel.toporder()
+        CPDs = learner.discrete_mle_estimateparams(skel, self.data)
+        if len(sys.argv) > 1:
+            with open('../data/breast-data-result-CPDs-' + str(self.pvalparam) + '.txt', 'w') as out_file:
+                json.dump(CPDs.Vdata, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
+        else:
+            with open('../data/breast-data-result-CPDs.txt', 'w') as out_file:
+                json.dump(CPDs.Vdata, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
+        return CPDs.Vdata
 
 if __name__ == '__main__':
     if 'lg' in sys.argv:

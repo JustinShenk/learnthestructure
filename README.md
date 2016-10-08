@@ -26,6 +26,7 @@ Run the script
 
 `python learnthestructure.py [p-value parameter] [# of bins] [lg]`
 
+
 The data is discrete rather than continuous. To test the binning of the linear Gaussian function, however, add `lg` as an argument and specify the number of bins. By default, p-value threshold is .05 and linear Gaussian data is discretized into 10 bins.
 
 # Output

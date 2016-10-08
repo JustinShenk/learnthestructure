@@ -2,6 +2,8 @@ import sys
 import json
 from libpgm.pgmlearner import PGMLearner
 from libpgm.graphskeleton import GraphSkeleton
+from libpgm.discretebayesiannetwork import DiscreteBayesianNetwork
+from libpgm.tablecpdfactorization import TableCPDFactorization
 from collections import OrderedDict
 # Add to PYTHONPATH
 sys.path.append("../")
@@ -37,6 +39,7 @@ class LearnTheStructure(object):
             self.resultlg = self.estimate_lg_model(self.data)
         self.result = self.estimate_discrete_model(self.data)
         self.CPDs = self.learnCPDs(self.result)
+        self.nodedata = None
 
     def run(self):
         print "Bayesian structure learning on the Breast Cancer Dataset using libpgm 1.3"
@@ -181,6 +184,49 @@ class LearnTheStructure(object):
                 json.dump(CPDs.Vdata, out_file, indent=2, sort_keys=False,
                           separators=(',', ': '))
         return CPDs.Vdata
+
+    def get_node_data(self):
+        nd = NodeData()
+        if self.nodedata == None:
+            nodedata = {}
+            nodedata['Vdata'] = self.CPDs
+            nodedata['E'] = self.result.E
+            nodedata['V'] = self.result.V
+            self.nodedata = nodedata
+            with open('../data/nodedata.txt', 'w') as f:
+                json.dump(nodedata, f, indent=2)
+
+            nd.load('../data/nodedata.txt')
+
+        return nd
+
+    def query(self, evidence=dict(), query=dict()):
+        """
+        Args:
+            evidence: A dictionary of prior knowledge.
+
+            query: A dictionary of exact probability you wish to know.
+
+            For example:
+                What is the probability that the cnancer is benign given that\
+                bare nuclei is a level 5?
+
+                evidence = dict(BareNuclei=5)
+                query = dict(Class=[2])
+        Returns:
+            A floating-point precision probability
+
+            For example:
+                In the above scenario, it returns 0.516213638531235
+        """
+        skel = self.result
+        nd = self.get_node_data()
+        bn = DiscreteBayesianNetwork(skel, nd)
+        fn = TableCPDFactorization(bn)
+        result = fn.specificquery(query, evidence)
+        print "The probability of ", query, " given ", evidence, " is ", result
+        return result
+
 
 if __name__ == '__main__':
     if 'lg' in sys.argv:

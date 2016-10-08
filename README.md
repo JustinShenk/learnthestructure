@@ -49,7 +49,7 @@ What is the probability that cancer within an instance is malignant given that B
 
 `evidence = dict(BareNuclei=10)`
 `query = dict(Class=[4])`
-`bn.query(evidence,query)`
+`bn.query_it(evidence,query)`
 
 `The probability of  {'Class': [4]}  given  {'BareNuclei': 10}  is  0.808146976884`
 

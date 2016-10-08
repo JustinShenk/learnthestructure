@@ -37,8 +37,6 @@ This implementation outputs estimated edges and vertices from the data in files 
 CPDs are produced:
 `/data/breast-data-result-CPDs.txt`
 
-```
-
 # Query
 
 Open the python shell from the implementation folder and instantiate the class:

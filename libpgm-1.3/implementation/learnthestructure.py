@@ -71,7 +71,8 @@ class LearnTheStructure(object):
         # Converts unicode strings to int data type.
         clean_data = []
         for d in data:
-            clean_data.append(dict((k, int(v)) for k, v in d.iteritems()))
+            new_dict = dict((k, int(v)) for k, v in d.iteritems())
+            clean_data.append(new_dict)
 
         return clean_data
 
@@ -111,10 +112,19 @@ class LearnTheStructure(object):
         return json_data
 
     def estimate_discrete_model(self, data):
-        """Learn the structure and parameters of a discrete Bayesian network.
+        """Learn the structure and parameters of a discrete Bayesian network using constraint-based approaches.
 
         Args:
             data: A list of dictionaries representing instances.
+
+                [
+                    {
+                        'Bare Nuclei': 4,
+                        'Uniformity of Cell Shape': 8,
+                        ...
+                    },
+                    ...
+                ]
 
         Returns:
             A libpgm object containing structure and parameters.

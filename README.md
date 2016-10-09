@@ -43,7 +43,7 @@ Open the python shell from the implementation folder and instantiate the class:
 `from learnthestructure import LearnTheStructure`
 `bn = LearnTheStructure()`
 
-What is the probability that cancer within an instance is malignant given that BareNuclei has a value of 10?
+What is the probability that a patient's cancer is malignant given that Bare Nuclei has a value of 10?
 
 `evidence = dict(BareNuclei=10)`
 

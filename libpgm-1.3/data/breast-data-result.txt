@@ -1,3 +1,19 @@
+Edges:
+[
+  [
+    "UniformityofCellSize",
+    "UniformityofCellShape"
+  ],
+  [
+    "BareNuclei",
+    "Class"
+  ],
+  [
+    "UniformityofCellSize",
+    "Class"
+  ]
+]
+Vertices:
 [
   "BlandChromatin",
   "MarginalAdhesion",

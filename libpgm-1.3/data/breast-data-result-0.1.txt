@@ -1,12 +1,32 @@
+Edges:
 [
-  "BlandChromatin",
-  "MarginalAdhesion",
-  "Mitoses",
-  "NormalNucleoli",
-  "ClumpThickness",
-  "BareNuclei",
+  [
+    "SingleEpithelialCellSize",
+    "UniformityofCellSize"
+  ],
+  [
+    "UniformityofCellShape",
+    "UniformityofCellSize"
+  ],
+  [
+    "UniformityofCellSize",
+    "Class"
+  ],
+  [
+    "BareNuclei",
+    "Class"
+  ]
+]
+Vertices:
+[
   "SingleEpithelialCellSize",
-  "UniformityofCellSize",
+  "NormalNucleoli",
+  "BareNuclei",
   "UniformityofCellShape",
-  "Class"
+  "UniformityofCellSize",
+  "Class",
+  "ClumpThickness",
+  "Mitoses",
+  "MarginalAdhesion",
+  "BlandChromatin"
 ]

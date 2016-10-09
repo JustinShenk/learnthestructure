@@ -29,9 +29,9 @@ Run the script
 
 The data is discrete rather than continuous. To test the binning of the linear Gaussian function, however, add `lg` as an argument and specify the number of bins. By default, p-value threshold is .05 and linear Gaussian data is discretized into 10 bins.
 
-# Data Variables
+# Data variables
 
-| No. | Attribute | Domain |
+| *#* | Attribute | Domain |
 | --- | --- | --- |
 | 1. | Sample code number | id number |
 | 2. | Clump Thickness | 1 - 10 |

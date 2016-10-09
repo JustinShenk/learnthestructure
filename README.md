@@ -37,6 +37,8 @@ This implementation outputs estimated edges and vertices from the data in files 
 CPDs are produced:
 `/data/breast-data-result-CPDs.txt`
 
+Example output is at the bottom.
+
 # Query
 
 Open the python shell from the implementation folder and instantiate the class:
@@ -54,7 +56,6 @@ What is the probability that a patient's cancer is malignant given that Bare Nuc
 `The probability of  {'Class': [4]}  given  {'BareNuclei': 10}  is  0.808146976884`
 
 
-# Output
 ```
 Edges:
 [

@@ -8,6 +8,7 @@ from libpgm.discretebayesiannetwork import DiscreteBayesianNetwork
 from libpgm.tablecpdfactorization import TableCPDFactorization
 from collections import OrderedDict
 
+isLG = False
 
 class LearnTheStructure(object):
     """Learns the structure and parameters of linear Gaussian model given only
@@ -31,12 +32,12 @@ class LearnTheStructure(object):
 
     """
 
-    def __init__(self, pvalparam=.05, bins=10, isLG=False, **kw):
+    def __init__(self, pvalparam=.05, bins=10, **kw):
         self.data = self.clean_data()
         self.pvalparam = float(pvalparam)
         self.bins = int(bins)
-        self.isLG = bool(isLG)
-        if self.isLG:
+        self.isLG = isLG
+        if isLG:
             self.resultlg = self.estimate_lg_model(self.data)
             self.CPDs = self.learnCPDs(self.resultlg)
         else:
@@ -270,9 +271,10 @@ class LearnTheStructure(object):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) == 4:
-        LearnTheStructure(sys.argv[1], sys.argv[2], sys.argv[3]).run()
-    elif len(sys.argv) == 3:
+    if 'lg' in sys.argv:
+        sys.argv.remove('lg')
+        isLG = True
+    if len(sys.argv) == 3:
         LearnTheStructure(sys.argv[1], sys.argv[2]).run()
     elif len(sys.argv) == 2:
         LearnTheStructure(sys.argv[1]).run()

@@ -1,13 +1,12 @@
 import sys
 import json
+sys.path.append("../")
 from libpgm.pgmlearner import PGMLearner
 from libpgm.nodedata import NodeData
 from libpgm.graphskeleton import GraphSkeleton
 from libpgm.discretebayesiannetwork import DiscreteBayesianNetwork
 from libpgm.tablecpdfactorization import TableCPDFactorization
 from collections import OrderedDict
-
-includeLG = False
 
 
 class LearnTheStructure(object):
@@ -32,14 +31,17 @@ class LearnTheStructure(object):
 
     """
 
-    def __init__(self, pvalparam=.05, bins=10, **kw):
+    def __init__(self, pvalparam=.05, bins=10, isLG=False, **kw):
         self.data = self.clean_data()
         self.pvalparam = float(pvalparam)
         self.bins = int(bins)
-        if includeLG:
+        self.isLG = bool(isLG)
+        if self.isLG:
             self.resultlg = self.estimate_lg_model(self.data)
-        self.result = self.estimate_discrete_model(self.data)
-        self.CPDs = self.learnCPDs(self.result)
+            self.CPDs = self.learnCPDs(self.resultlg)
+        else:
+            self.result = self.estimate_discrete_model(self.data)
+            self.CPDs = self.learnCPDs(self.result)
         self.nodedata = None
 
     def run(self):
@@ -130,24 +132,30 @@ class LearnTheStructure(object):
             A libpgm object containing structure and parameters.
         """
         learner = PGMLearner()
-
         resultdc = learner.discrete_constraint_estimatestruct(
             data, self.pvalparam)
 
         # Saves resulting structure.
         if len(sys.argv) > 1:
             with open('../data/breast-data-result-' + str(self.pvalparam) + '.txt', 'w') as out_file:
+                out_file.write("Edges:\n")
+                json.dump(resultdc.E, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
+                out_file.write("\nVertices:\n")
                 json.dump(resultdc.V, out_file, indent=2, sort_keys=False,
                           separators=(',', ': '))
         else:
             with open('../data/breast-data-result.txt', 'w') as out_file:
+                out_file.write("Edges:\n")
+                json.dump(resultdc.E, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
+                out_file.write("\nVertices:\n")
                 json.dump(resultdc.V, out_file, indent=2, sort_keys=False,
                           separators=(',', ': '))
-        if not includeLG:
-            print "Edges:"
-            print json.dumps(resultdc.E, indent=2)
-            print "Vertices:"
-            print json.dumps(resultdc.V, indent=2)
+        print "Edges:"
+        print json.dumps(resultdc.E, indent=2)
+        print "Vertices:"
+        print json.dumps(resultdc.V, indent=2)
         return resultdc
 
     def estimate_lg_model(self, data):
@@ -163,6 +171,24 @@ class LearnTheStructure(object):
         learner = PGMLearner()
         resultlg = learner.lg_estimatebn(
             data, self.pvalparam, self.bins, 1)
+
+        # Saves resulting structure.
+        if len(sys.argv) > 1:
+            with open('../data/breast-data-result-' + str(self.pvalparam) + '.txt', 'w') as out_file:
+                out_file.write("Edges:\n")
+                json.dump(resultlg.E, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
+                out_file.write("\nVertices:\n")
+                json.dump(resultlg.V, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
+        else:
+            with open('../data/breast-data-result.txt', 'w') as out_file:
+                out_file.write("Edges:\n")
+                json.dump(resultlg.E, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
+                out_file.write("\nVertices:\n")
+                json.dump(resultlg.V, out_file, indent=2, sort_keys=False,
+                          separators=(',', ': '))
         print "Linear Gaussian Model"
         print "Edges:"
         print json.dumps(resultlg.E, indent=2)
@@ -171,7 +197,7 @@ class LearnTheStructure(object):
         return resultlg
 
     def learnCPDs(self, skel):
-        """Learn the CPDs of a discrete Bayesian network, given data and a structure:
+        """Learn the CPDs of a discrete or a Gaussian Bayesian network, given data and a structure:
 
         Args:
             skel: A list of dictionaries containing the skeleton.
@@ -181,7 +207,10 @@ class LearnTheStructure(object):
         """
         learner = PGMLearner()
         skel.toporder()
-        CPDs = learner.discrete_mle_estimateparams(skel, self.data)
+        if not self.isLG:
+            CPDs = learner.discrete_mle_estimateparams(skel, self.data)
+        else:
+            CPDs = learner.lg_mle_estimateparams(skel, self.data)
         if len(sys.argv) > 1:
             with open('../data/breast-data-result-CPDs-' + str(self.pvalparam) + '.txt', 'w') as out_file:
                 json.dump(CPDs.Vdata, out_file, indent=2, sort_keys=False,
@@ -228,7 +257,7 @@ class LearnTheStructure(object):
             For example:
                 In the above scenario, it returns 0.516213638531235
         """
-        if includeLG:
+        if isLG:
             skel = self.resultlg
         else:
             skel = self.result
@@ -241,10 +270,9 @@ class LearnTheStructure(object):
 
 
 if __name__ == '__main__':
-    if 'lg' in sys.argv:
-        sys.argv.remove('lg')
-        includeLG = True
-    if len(sys.argv) == 3:
+    if len(sys.argv) == 4:
+        LearnTheStructure(sys.argv[1], sys.argv[2], sys.argv[3]).run()
+    elif len(sys.argv) == 3:
         LearnTheStructure(sys.argv[1], sys.argv[2]).run()
     elif len(sys.argv) == 2:
         LearnTheStructure(sys.argv[1]).run()

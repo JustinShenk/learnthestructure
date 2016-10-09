@@ -258,7 +258,7 @@ class LearnTheStructure(object):
             For example:
                 In the above scenario, it returns 0.516213638531235
         """
-        if isLG:
+        if self.isLG:
             skel = self.resultlg
         else:
             skel = self.result
